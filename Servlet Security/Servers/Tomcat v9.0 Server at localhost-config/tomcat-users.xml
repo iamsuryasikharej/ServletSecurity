@@ -57,8 +57,8 @@
   <role rolename="CUSTOMER"/>
   <role rolename="MANAGER"/>
   <role rolename="CLERK"/>
-  <user username="raja" password="rani" roles="CLERK"/>
-  <user username="ram" password="shyam" roles="CUSTOMER"/>
+  <user username="Surya" password="Surya" roles="CLERK"/>
+  <user username="Jane" password="Jane" roles="CUSTOMER"/>
   
 
 
